@@ -23,4 +23,4 @@ paint_line_function(k, b, N_es, y_es=dT_es)
 
 
 
-set_end()
+set_end(title="График изменения мощности от изменения температуры", y_label="$\Delta T, \\text{К}$", x_label="N, Вт")
