@@ -2,7 +2,7 @@ from mnk import *
 from my_library import *
 from math import pi
 
-alpha = 0.051
+alpha = 0.057
 beta = 40.7
 pot_es = []
 N_es = []
